@@ -2,6 +2,7 @@ package program
 
 import (
 	"reflect"
+	"sort"
 	"testing"
 )
 
@@ -34,7 +35,10 @@ func Test_intersect(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := intersect(tt.args.nums1, tt.args.nums2); !reflect.DeepEqual(got, tt.want) {
+			got := intersect(tt.args.nums1, tt.args.nums2)
+			sort.Ints(got)
+			sort.Ints(tt.want)
+			if !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("intersect() = %v, want %v", got, tt.want)
 			}
 		})
@@ -70,7 +74,10 @@ func Test_intersect2(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := intersect2(tt.args.nums1, tt.args.nums2); !reflect.DeepEqual(got, tt.want) {
+			got := intersect2(tt.args.nums1, tt.args.nums2)
+			sort.Ints(got)
+			sort.Ints(tt.want)
+			if !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("intersect2() = %v, want %v", got, tt.want)
 			}
 		})
