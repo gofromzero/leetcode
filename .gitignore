@@ -13,8 +13,5 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-algs4-data/
-algs4.jar
 .idea/
-test/
 coverage.txt
