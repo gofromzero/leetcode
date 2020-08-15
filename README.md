@@ -1,5 +1,8 @@
 # leetCode
 
+[![codecov](https://codecov.io/gh/gofromzero/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/gofromzero/leetcode)
+![Build and Test](https://github.com/gofromzero/leetcode/workflows/Build%20and%20Test/badge.svg)
+![Release](https://github.com/gofromzero/leetcode/workflows/Release/badge.svg)
 ## LeetCode Algorithm
 
 | # | Title | Solution | Difficulty | status |
