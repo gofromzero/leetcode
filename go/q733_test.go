@@ -18,7 +18,7 @@ func Test_floodFill(t *testing.T) {
 		want [][]int
 	}{
 		{
-			name: "case 1",
+			name: "floodFill case 1",
 			args: args{
 				image: [][]int{
 					{1, 1, 1},
@@ -36,7 +36,7 @@ func Test_floodFill(t *testing.T) {
 			},
 		},
 		{
-			name: "case 2",
+			name: "floodFill case 2",
 			args: args{
 				image: [][]int{
 					{0, 0, 0},
@@ -52,11 +52,27 @@ func Test_floodFill(t *testing.T) {
 			},
 		},
 		{
-			name: "case 3",
+			name: "floodFill case 3",
 			args: args{
 				image: [][]int{
 					{0, 0, 0},
 					{0, 1, 1},
+				},
+				sr:       1,
+				sc:       1,
+				newColor: 2,
+			},
+			want: [][]int{
+				{0, 0, 0},
+				{0, 2, 2},
+			},
+		},
+		{
+			name: "floodFill case 4",
+			args: args{
+				image: [][]int{
+					{0, 0, 0},
+					{0, 2, 2},
 				},
 				sr:       1,
 				sc:       1,
