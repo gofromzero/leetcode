@@ -11,27 +11,27 @@ func Test_longestCommonPrefix(t *testing.T) {
 		args args
 		want string
 	}{
-		//{
-		//	name: "case 1",
-		//	args: args{
-		//		strs: []string{"flower","flow","flight"},
-		//	},
-		//	want: "fl",
-		//},
-		//{
-		//	name: "case 2",
-		//	args: args{
-		//		strs: []string{"dog","racecar","car"},
-		//	},
-		//	want: "",
-		//},
-		//{
-		//	name: "case 3",
-		//	args: args{
-		//		strs: []string{},
-		//	},
-		//	want: "",
-		//},
+		{
+			name: "case 1",
+			args: args{
+				strs: []string{"flower", "flow", "flight"},
+			},
+			want: "fl",
+		},
+		{
+			name: "case 2",
+			args: args{
+				strs: []string{"dog", "racecar", "car"},
+			},
+			want: "",
+		},
+		{
+			name: "case 3",
+			args: args{
+				strs: []string{},
+			},
+			want: "",
+		},
 		{
 			name: "case 3",
 			args: args{

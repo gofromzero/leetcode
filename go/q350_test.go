@@ -17,7 +17,7 @@ func Test_intersect(t *testing.T) {
 		want []int
 	}{
 		{
-			name: "示例 1",
+			name: "intersect case 1",
 			args: args{
 				nums1: []int{1, 2, 2, 1},
 				nums2: []int{2, 2},
@@ -25,7 +25,7 @@ func Test_intersect(t *testing.T) {
 			want: []int{2, 2},
 		},
 		{
-			name: "示例 2",
+			name: "intersect case 2",
 			args: args{
 				nums1: []int{4, 9, 5},
 				nums2: []int{9, 4, 9, 8, 4},
@@ -56,7 +56,7 @@ func Test_intersect2(t *testing.T) {
 		want []int
 	}{
 		{
-			name: "示例 1",
+			name: "intersect2 case 1",
 			args: args{
 				nums1: []int{1, 2, 2, 1},
 				nums2: []int{2, 2},
@@ -64,7 +64,7 @@ func Test_intersect2(t *testing.T) {
 			want: []int{2, 2},
 		},
 		{
-			name: "示例 2",
+			name: "intersect2 case 2",
 			args: args{
 				nums1: []int{4, 9, 5},
 				nums2: []int{9, 4, 9, 8, 4},
