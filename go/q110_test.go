@@ -4,7 +4,7 @@ import "testing"
 
 func Test_isBalanced(t *testing.T) {
 	type args struct {
-		root *TreeNode
+		root *treeNode
 	}
 	tests := []struct {
 		name string
@@ -14,17 +14,17 @@ func Test_isBalanced(t *testing.T) {
 		{
 			name: "isBalanced case 1",
 			args: args{
-				root: &TreeNode{
+				root: &treeNode{
 					Val: 3,
-					Left: &TreeNode{
+					Left: &treeNode{
 						Val: 9,
 					},
-					Right: &TreeNode{
+					Right: &treeNode{
 						Val: 20,
-						Left: &TreeNode{
+						Left: &treeNode{
 							Val: 15,
 						},
-						Right: &TreeNode{
+						Right: &treeNode{
 							Val: 7,
 						},
 					},
@@ -35,24 +35,24 @@ func Test_isBalanced(t *testing.T) {
 		{
 			name: "isBalanced case 2",
 			args: args{
-				root: &TreeNode{
+				root: &treeNode{
 					Val: 1,
-					Left: &TreeNode{
+					Left: &treeNode{
 						Val: 2,
-						Left: &TreeNode{
+						Left: &treeNode{
 							Val: 3,
-							Left: &TreeNode{
+							Left: &treeNode{
 								Val: 4,
 							},
-							Right: &TreeNode{
+							Right: &treeNode{
 								Val: 4,
 							},
 						},
-						Right: &TreeNode{
+						Right: &treeNode{
 							Val: 3,
 						},
 					},
-					Right: &TreeNode{
+					Right: &treeNode{
 						Val: 2,
 					},
 				},
