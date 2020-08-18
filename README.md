@@ -16,4 +16,5 @@
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
-|1|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
+|6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|middle| ✔ |
+|1|[两数之和](https://leetcode.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
