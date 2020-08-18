@@ -1,7 +1,5 @@
 package program
 
-import "fmt"
-
 type pos struct {
 	sr int
 	sc int
@@ -32,6 +30,5 @@ func floodFill(image [][]int, sr int, sc int, newColor int) [][]int {
 		}
 		dp = dp[1:]
 	}
-	fmt.Println(count)
 	return image
 }
