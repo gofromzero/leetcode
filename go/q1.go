@@ -16,9 +16,8 @@ func twoSum2(nums []int, target int) []int {
 	for k, v := range nums {
 		if val, ok := m[target-v]; ok {
 			return []int{val, k}
-		} else {
-			m[v] = k
 		}
+		m[v] = k
 	}
 	return nil
 }
