@@ -24,6 +24,9 @@ package program
 //}
 
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
+	if head == nil {
+		return nil
+	}
 	result := &ListNode{}
 	result.Next = head
 	var pre *ListNode
