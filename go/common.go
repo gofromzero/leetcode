@@ -24,7 +24,7 @@ func (l *ListNode) String() string {
 
 // GenerateListNode arr to list
 func GenerateListNode(list []int) *ListNode {
-	if list == nil {
+	if len(list) == 0 {
 		return nil
 	}
 	head := &ListNode{}

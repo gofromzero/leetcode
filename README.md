@@ -16,6 +16,7 @@
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
 |19|[删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](go/q19.go)|Middle| ✔ |
+|21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](go/q21.go)|Easy| ✔ |
 |15|[三数之和](https://leetcode.com/problems/3sum/) | [golang](go/q15.go)|Middle| ✔ |
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
 |6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|Middle| ✔ |
