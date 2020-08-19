@@ -9,7 +9,8 @@
 |---| ----- | ---------- | ---------- | ------ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
 |350|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
-|189|[旋转数组](https://leetcode-.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
+|189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
+|141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
