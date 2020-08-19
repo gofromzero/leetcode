@@ -1,13 +1,24 @@
 package program
 
-func removeNthFromEnd(head *listNode, n int) *listNode {
+func removeNthFromEnd(head *ListNode, n int) *ListNode {
+	if head == nil {
+		return nil
+	}
+	temp := &ListNode{Next: head}
 	root := head
-
-	for root != nil {
-		if n == 0 {
-
+	old := temp
+	for root.Next != nil {
+		if n > 0 {
+			n--
 		}
+		if n == 0 {
+			old = old.Next
+		}
+
 		root = root.Next
 	}
-	return head
+	if n <= 1 {
+		old.Next = old.Next.Next
+	}
+	return temp.Next
 }

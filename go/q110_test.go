@@ -1,10 +1,12 @@
 package program
 
-import "testing"
+import (
+	"testing"
+)
 
 func Test_isBalanced(t *testing.T) {
 	type args struct {
-		root *treeNode
+		root *TreeNode
 	}
 	tests := []struct {
 		name string
@@ -14,17 +16,17 @@ func Test_isBalanced(t *testing.T) {
 		{
 			name: "isBalanced case 1",
 			args: args{
-				root: &treeNode{
+				root: &TreeNode{
 					Val: 3,
-					Left: &treeNode{
+					Left: &TreeNode{
 						Val: 9,
 					},
-					Right: &treeNode{
+					Right: &TreeNode{
 						Val: 20,
-						Left: &treeNode{
+						Left: &TreeNode{
 							Val: 15,
 						},
-						Right: &treeNode{
+						Right: &TreeNode{
 							Val: 7,
 						},
 					},
@@ -35,24 +37,24 @@ func Test_isBalanced(t *testing.T) {
 		{
 			name: "isBalanced case 2",
 			args: args{
-				root: &treeNode{
+				root: &TreeNode{
 					Val: 1,
-					Left: &treeNode{
+					Left: &TreeNode{
 						Val: 2,
-						Left: &treeNode{
+						Left: &TreeNode{
 							Val: 3,
-							Left: &treeNode{
+							Left: &TreeNode{
 								Val: 4,
 							},
-							Right: &treeNode{
+							Right: &TreeNode{
 								Val: 4,
 							},
 						},
-						Right: &treeNode{
+						Right: &TreeNode{
 							Val: 3,
 						},
 					},
-					Right: &treeNode{
+					Right: &TreeNode{
 						Val: 2,
 					},
 				},

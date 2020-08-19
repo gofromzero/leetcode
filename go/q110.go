@@ -1,6 +1,6 @@
 package program
 
-func isBalanced(root *treeNode) bool {
+func isBalanced(root *TreeNode) bool {
 	if maxDepth(root) == -1 {
 		return false
 	}
@@ -8,7 +8,7 @@ func isBalanced(root *treeNode) bool {
 	return true
 }
 
-func maxDepth(root *treeNode) int {
+func maxDepth(root *TreeNode) int {
 	if root == nil {
 		return 0
 	}

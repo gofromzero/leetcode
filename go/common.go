@@ -1,28 +1,40 @@
 package program
 
-type treeNode struct {
+import "fmt"
+
+type TreeNode struct {
 	Val   int
-	Left  *treeNode
-	Right *treeNode
+	Left  *TreeNode
+	Right *TreeNode
 }
 
-type listNode struct {
+type ListNode struct {
 	Val  int
-	Next *listNode
+	Next *ListNode
 }
 
-func generateListNode(list []int) *listNode {
-	root := &listNode{}
-	head := root
+func (l *ListNode) String() string {
+	if l == nil {
+		return ""
+	}
+	return fmt.Sprintf("%d %v", l.Val, l.Next)
+}
+
+func GenerateListNode(list []int) *ListNode {
+	if list == nil {
+		return nil
+	}
+	head := &ListNode{}
+	root := head
+
 	for _, v := range list {
-		root.Val = v
-		root.Next = &listNode{}
+		root.Next = &ListNode{Val: v}
 		root = root.Next
 	}
-	return head
+	return head.Next
 }
 
-func checkListEqual(left, right *listNode) bool {
+func CheckListEqual(left, right *ListNode) bool {
 	for left != nil && right != nil {
 		if left.Val != right.Val {
 			return false
