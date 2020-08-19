@@ -21,4 +21,5 @@
 |15|[三数之和](https://leetcode.com/problems/3sum/) | [golang](go/q15.go)|Middle| ✔ |
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
 |6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|Middle| ✔ |
+|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
 |1|[两数之和](https://leetcode.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
