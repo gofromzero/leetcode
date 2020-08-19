@@ -2,12 +2,14 @@ package program
 
 import "fmt"
 
+// TreeNode TreeNode
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
 	Right *TreeNode
 }
 
+// ListNode ListNode
 type ListNode struct {
 	Val  int
 	Next *ListNode
@@ -20,6 +22,7 @@ func (l *ListNode) String() string {
 	return fmt.Sprintf("%d %v", l.Val, l.Next)
 }
 
+// GenerateListNode arr to list
 func GenerateListNode(list []int) *ListNode {
 	if list == nil {
 		return nil
@@ -34,6 +37,7 @@ func GenerateListNode(list []int) *ListNode {
 	return head.Next
 }
 
+// CheckListEqual check list equal
 func CheckListEqual(left, right *ListNode) bool {
 	for left != nil && right != nil {
 		if left.Val != right.Val {
