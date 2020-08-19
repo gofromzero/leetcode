@@ -113,3 +113,37 @@ func Test_checkListEqual(t *testing.T) {
 		})
 	}
 }
+
+func TestListNode_String(t *testing.T) {
+	type fields struct {
+		Val  int
+		Next *ListNode
+	}
+	tests := []struct {
+		name   string
+		fields fields
+		want   string
+	}{
+		{
+			name: "",
+			fields: fields{
+				Val: 1,
+				Next: &ListNode{
+					Val: 0,
+				},
+			},
+			want: "1 0 ",
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			l := &ListNode{
+				Val:  tt.fields.Val,
+				Next: tt.fields.Next,
+			}
+			if got := l.String(); got != tt.want {
+				t.Errorf("String() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
