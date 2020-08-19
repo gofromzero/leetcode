@@ -4,7 +4,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	temp := 0
 	root := &ListNode{}
 	result := root
-	for l1 != nil || l2 != nil {
+	for l1 != nil || l2 != nil || temp != 0 {
 		if l1 != nil {
 			temp += l1.Val
 			l1 = l1.Next
@@ -19,11 +19,6 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 		}
 		root = root.Next
 		temp /= 10
-	}
-	if temp == 1 {
-		root.Next = &ListNode{
-			Val: temp,
-		}
 	}
 
 	return result.Next
