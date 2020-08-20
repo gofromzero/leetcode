@@ -15,6 +15,7 @@
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
+|53|[最大子序和](https://leetcode.com/problems/maximum-subarray/) | [golang](go/q53.go)|Easy| ✔ |
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
 |19|[删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](go/q19.go)|Middle| ✔ |
