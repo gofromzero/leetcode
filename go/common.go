@@ -53,3 +53,10 @@ func CheckListEqual(left, right *ListNode) bool {
 
 	return true
 }
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
