@@ -24,9 +24,8 @@ func firstUniqCharBetter(s string) int {
 	for i, k := range s {
 		if i == arr[k-'a'] {
 			return i
-		} else {
-			arr[k-'a'] = -1
 		}
+		arr[k-'a'] = -1
 	}
 	return -1
 }
