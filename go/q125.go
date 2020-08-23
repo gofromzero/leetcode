@@ -1,23 +1,18 @@
 package program
 
 import (
+	"regexp"
 	"strings"
 )
 
 func isPalindrome(s string) bool {
 	s = strings.ToLower(s)
+	rep, _ := regexp.Compile("[^0-9a-z]")
+	s = rep.ReplaceAllString(s, "")
+
 	l := 0
 	r := len(s) - 1
 	for l < r {
-		if !check(rune(s[l])) {
-			l++
-			continue
-		}
-		if !check(rune(s[r])) {
-			r--
-			continue
-		}
-
 		if s[r] != s[l] {
 			return false
 		}
@@ -25,8 +20,4 @@ func isPalindrome(s string) bool {
 		l++
 	}
 	return true
-}
-
-func check(v rune) bool {
-	return ('0' <= v && v <= '9') || (v >= 'a' && v <= 'z')
 }
