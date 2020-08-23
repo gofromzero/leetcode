@@ -89,7 +89,7 @@ func Test_strStrInternal(t *testing.T) {
 			want: 0,
 		},
 		{
-			name: "strStr case 1",
+			name: "strStr case 5",
 			args: args{
 				haystack: "hexllo",
 				needle:   "ll",
