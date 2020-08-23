@@ -94,7 +94,7 @@ func Test_strStrInternal(t *testing.T) {
 				haystack: "hexllo",
 				needle:   "ll",
 			},
-			want: 2,
+			want: 3,
 		},
 	}
 	for _, tt := range tests {
