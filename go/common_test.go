@@ -5,6 +5,9 @@ import (
 	"testing"
 )
 
+type T struct {
+}
+
 func Test_generateListNode(t *testing.T) {
 	type args struct {
 		list []int
