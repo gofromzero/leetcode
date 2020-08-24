@@ -25,6 +25,20 @@ func Test_lengthOfLastWord(t *testing.T) {
 			},
 			want: 0,
 		},
+		{
+			name: "lengthOfLastWord case",
+			args: args{
+				s: " ",
+			},
+			want: 0,
+		},
+		{
+			name: "lengthOfLastWord case",
+			args: args{
+				s: "a ",
+			},
+			want: 1,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
