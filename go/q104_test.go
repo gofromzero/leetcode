@@ -49,7 +49,7 @@ func Test_maxDepth(t *testing.T) {
 					},
 				},
 			},
-			want: 3,
+			want: 4,
 		},
 	}
 	for _, tt := range tests {
