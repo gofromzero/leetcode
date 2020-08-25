@@ -20,6 +20,7 @@
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
 |120|[三角形最小路径和](https://leetcode.com/problems/triangle/) | [golang](go/q120.go)|Middle| ✔ |
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
+|104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
