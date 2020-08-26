@@ -22,6 +22,7 @@
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
+|98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
