@@ -9,6 +9,7 @@
 |---| ----- | ---------- | ---------- | ------ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
+|700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
 |387|[字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/) | [golang](go/q344.go)|Easy| ✔ |
 |350|[反转字符串](https://leetcode.com/problems/reverse-string/) | [golang](go/q387.go)|Easy| ✔ |
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
@@ -21,6 +22,8 @@
 |120|[三角形最小路径和](https://leetcode.com/problems/triangle/) | [golang](go/q120.go)|Middle| ✔ |
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
+|102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
+|98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
