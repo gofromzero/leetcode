@@ -7,6 +7,7 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
+|814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
