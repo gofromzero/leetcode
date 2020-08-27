@@ -1,7 +1,6 @@
 package program
 
 import (
-	"fmt"
 	"math"
 	"strings"
 )
@@ -60,8 +59,8 @@ func saveNumber(number []rune) {
 			isBegin0 = false
 		}
 		if !isBegin0 {
-			fmt.Print(string(v))
+			//fmt.Print(string(v))
 		}
 	}
-	fmt.Println()
+	//fmt.Println()
 }
