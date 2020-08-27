@@ -32,6 +32,7 @@
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
 |58|[最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/) | [golang](go/q58.go)|Easy| ✔ |
 |53|[最大子序和](https://leetcode.com/problems/maximum-subarray/) | [golang](go/q53.go)|Easy| ✔ |
+|46|[全排列](https://leetcode.com/problems/permutations/) | [golang](go/q46.go)|Easy| ✔ |
 |28|[实现strStr](https://leetcode.com/problems/implement-strstr/) | [golang](go/q28.go)|Easy| ✔ |
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
