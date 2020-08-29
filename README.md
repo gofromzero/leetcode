@@ -46,3 +46,9 @@
 |3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](go/q3.go)|Middle| ✔ |
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
 |1|[两数之和](https://leetcode.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
+
+## 剑指Offer Algorithm
+
+| # | Title | Solution | Difficulty | status |
+|---| ----- | ---------- | ---------- | ------ |
+|57-Ⅱ|[和为s的连续正数序列  ](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
