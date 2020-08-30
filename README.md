@@ -19,6 +19,7 @@
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
+|231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
 |222|[完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/) | [golang](go/q222.go)|Middle| ✔ |
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
