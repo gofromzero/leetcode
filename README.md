@@ -25,7 +25,8 @@
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
-|136|[只出现一次的数字](https://leetcode.com/problems/single-number/) | [golang](go/q125.go)|Easy| ✔ |
+|137|[只出现一次的数字 Ⅱ](https://leetcode.com/problems/single-number-ii/) | [golang](go/q137.go)|Meddile| ✔ |
+|136|[只出现一次的数字](https://leetcode.com/problems/single-number/) | [golang](go/q136.go)|Easy| ✔ |
 |125|[验证回文串](https://leetcode.com/problems/valid-palindrome/) | [golang](go/q125.go)|Easy| ✔ |
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
 |120|[三角形最小路径和](https://leetcode.com/problems/triangle/) | [golang](go/q120.go)|Middle| ✔ |
