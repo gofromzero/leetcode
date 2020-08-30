@@ -52,4 +52,5 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
-|57-Ⅱ|[和为s的连续正数序列  ](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
+|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz065.go)|Middle| ✔ |
+|57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |

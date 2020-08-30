@@ -14,3 +14,14 @@ func sortArrayByParity(A []int) []int {
 
 	return A
 }
+
+//func sortArrayByParity(A []int) []int {
+//	j := 0
+//	for i := range A {
+//		if A[i]%2 == 0 {
+//			A[j], A[i] = A[i], A[j]
+//			j++
+//		}
+//	}
+//	return A
+//}
