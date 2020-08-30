@@ -25,7 +25,8 @@
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
-|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [golang](go/q125.go)|Easy| ✔ |
+|136|[只出现一次的数字](https://leetcode.com/problems/single-number/) | [golang](go/q125.go)|Easy| ✔ |
+|125|[验证回文串](https://leetcode.com/problems/valid-palindrome/) | [golang](go/q125.go)|Easy| ✔ |
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
 |120|[三角形最小路径和](https://leetcode.com/problems/triangle/) | [golang](go/q120.go)|Middle| ✔ |
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
@@ -47,7 +48,7 @@
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
 |6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|Middle| ✔ |
 |3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](go/q3.go)|Middle| ✔ |
-|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
+|2|[两数相加](https://leetcode.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
 |1|[两数之和](https://leetcode.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
 
 ## 剑指Offer Algorithm
