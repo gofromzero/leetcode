@@ -8,6 +8,7 @@
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
+|875|[二叉树剪枝](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
@@ -18,6 +19,7 @@
 |350|[反转字符串](https://leetcode.com/problems/reverse-string/) | [golang](go/q387.go)|Easy| ✔ |
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
+|278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
@@ -25,8 +27,9 @@
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
+|153|[寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [golang](go/q153.go)|Middle| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
-|137|[只出现一次的数字 Ⅱ](https://leetcode.com/problems/single-number-ii/) | [golang](go/q137.go)|Meddile| ✔ |
+|137|[只出现一次的数字 Ⅱ](https://leetcode.com/problems/single-number-ii/) | [golang](go/q137.go)|Middle| ✔ |
 |136|[只出现一次的数字](https://leetcode.com/problems/single-number/) | [golang](go/q136.go)|Easy| ✔ |
 |125|[验证回文串](https://leetcode.com/problems/valid-palindrome/) | [golang](go/q125.go)|Easy| ✔ |
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
@@ -36,6 +39,7 @@
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
+|69|[加一](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
 |58|[最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/) | [golang](go/q58.go)|Easy| ✔ |
