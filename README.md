@@ -27,6 +27,7 @@
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
+|154|[寻找旋转排序数组中的最小值Ⅱ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [golang](go/q154.go)|Hard| ✔ |
 |153|[寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [golang](go/q153.go)|Middle| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
 |137|[只出现一次的数字 Ⅱ](https://leetcode.com/problems/single-number-ii/) | [golang](go/q137.go)|Middle| ✔ |
