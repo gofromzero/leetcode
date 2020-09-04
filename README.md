@@ -23,6 +23,7 @@
 |350|[反转字符串](https://leetcode.com/problems/reverse-string/) | [golang](go/q387.go)|Easy| ✔ |
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
+|299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
