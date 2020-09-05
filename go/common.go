@@ -15,6 +15,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// LinkNode LinkNode
 type LinkNode struct {
 	key, val  int
 	pre, next *LinkNode

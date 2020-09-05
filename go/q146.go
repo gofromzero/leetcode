@@ -1,11 +1,13 @@
 package program
 
+// LRUCache LRUCache
 type LRUCache struct {
 	m          map[int]*LinkNode
 	cap        int
 	head, tail *LinkNode
 }
 
+// Constructor Constructor
 func Constructor(capacity int) LRUCache {
 	head := &LinkNode{key: 0, val: 0, pre: nil, next: nil}
 	tail := &LinkNode{key: 0, val: 0, pre: nil, next: nil}
@@ -20,49 +22,54 @@ func Constructor(capacity int) LRUCache {
 	}
 }
 
-func (this *LRUCache) RemoveNode(node *LinkNode) {
+// RemoveNode RemoveNode
+func (c *LRUCache) RemoveNode(node *LinkNode) {
 	node.pre.next = node.next
 	node.next.pre = node.pre
 }
 
-func (this *LRUCache) AddNode(node *LinkNode) {
-	node.pre = this.head
-	node.next = this.head.next
-	this.head.next.pre = node
-	this.head.next = node
+// AddNode AddNode
+func (c *LRUCache) AddNode(node *LinkNode) {
+	node.pre = c.head
+	node.next = c.head.next
+	c.head.next.pre = node
+	c.head.next = node
 }
 
-func (this *LRUCache) Get(key int) int {
-	if v, ok := this.m[key]; ok {
-		this.RemoveNode(v)
-		this.AddNode(v)
+// Get Get
+func (c *LRUCache) Get(key int) int {
+	if v, ok := c.m[key]; ok {
+		c.RemoveNode(v)
+		c.AddNode(v)
 		return v.val
 	}
 	return -1
 }
 
-func (this *LRUCache) MoveToHead(node *LinkNode) {
-	this.RemoveNode(node)
-	this.AddNode(node)
+// MoveToHead MoveToHead
+func (c *LRUCache) MoveToHead(node *LinkNode) {
+	c.RemoveNode(node)
+	c.AddNode(node)
 }
 
-func (this *LRUCache) Put(key int, value int) {
-	if v, exist := this.m[key]; exist {
+// Put Put
+func (c *LRUCache) Put(key int, value int) {
+	if v, exist := c.m[key]; exist {
 		v.val = value
-		this.MoveToHead(v)
+		c.MoveToHead(v)
 		return
 	}
 	node := &LinkNode{
 		key: key,
 		val: value,
 	}
-	if len(this.m) == this.cap {
-		delete(this.m, this.tail.pre.key)
-		this.RemoveNode(this.tail.pre)
+	if len(c.m) == c.cap {
+		delete(c.m, c.tail.pre.key)
+		c.RemoveNode(c.tail.pre)
 	}
 
-	this.m[key] = node
-	this.AddNode(node)
+	c.m[key] = node
+	c.AddNode(node)
 }
 
 /**
