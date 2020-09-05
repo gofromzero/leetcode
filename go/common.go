@@ -15,6 +15,11 @@ type ListNode struct {
 	Next *ListNode
 }
 
+type LinkNode struct {
+	key, val  int
+	pre, next *LinkNode
+}
+
 func (l *ListNode) String() string {
 	if l == nil {
 		return ""
