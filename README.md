@@ -22,6 +22,7 @@
 |387|[字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/) | [golang](go/q344.go)|Easy| ✔ |
 |350|[反转字符串](https://leetcode.com/problems/reverse-string/) | [golang](go/q387.go)|Easy| ✔ |
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
+|343|[整数拆分](https://leetcode.com/problems/integer-break/) | [golang](go/q343.go)|Middle| ✔ |
 |319|[灯泡开关](https://leetcode.com/problems/bulb-switcher/) | [golang](go/q319.go)|Middle| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
 |299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
@@ -35,6 +36,7 @@
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
 |154|[寻找旋转排序数组中的最小值Ⅱ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [golang](go/q154.go)|Hard| ✔ |
 |153|[寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [golang](go/q153.go)|Middle| ✔ |
+|146|[LRU缓存机制](https://leetcode.com/problems/lru-cache/) | [golang](go/q146.go)|Middle| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
 |137|[只出现一次的数字 Ⅱ](https://leetcode.com/problems/single-number-ii/) | [golang](go/q137.go)|Middle| ✔ |
 |136|[只出现一次的数字](https://leetcode.com/problems/single-number/) | [golang](go/q136.go)|Easy| ✔ |
@@ -49,6 +51,8 @@
 |69|[加一](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
+|63|[不同路径Ⅱ](https://leetcode.com/problems/unique-paths-ii/) | [golang](go/q63.go)|Middle| ✔ |
+|62|[不同路径](https://leetcode.com/problems/unique-paths/) | [golang](go/q62.go)|Middle| ✔ |
 |58|[最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/) | [golang](go/q58.go)|Easy| ✔ |
 |54|[螺旋矩阵](https://leetcode.com/problems/spiral-matrix/) | [golang](go/q54.go)|Middle| ✔ |
 |53|[最大子序和](https://leetcode.com/problems/maximum-subarray/) | [golang](go/q53.go)|Easy| ✔ |
@@ -60,6 +64,7 @@
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](go/q21.go)|Easy| ✔ |
 |15|[三数之和](https://leetcode.com/problems/3sum/) | [golang](go/q15.go)|Middle| ✔ |
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
+|11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [golang](go/q11.go)|Middle| ✔ |
 |6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|Middle| ✔ |
 |3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](go/q3.go)|Middle| ✔ |
 |2|[两数相加](https://leetcode.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
@@ -69,5 +74,6 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
-|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz065.go)|Middle| ✔ |
+|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz064.go)|Middle| ✔ |
+|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](go/jz061.go)|Easy| ✔ |
 |57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
