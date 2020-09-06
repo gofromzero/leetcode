@@ -73,5 +73,6 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
-|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz065.go)|Middle| ✔ |
+|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz064.go)|Middle| ✔ |
+|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](go/jz061.go)|Easy| ✔ |
 |57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
