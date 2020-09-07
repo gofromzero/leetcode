@@ -8,8 +8,9 @@
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
+|1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
-|881|[救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
+|881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
 |875|[二叉树剪枝](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
@@ -26,6 +27,7 @@
 |319|[灯泡开关](https://leetcode.com/problems/bulb-switcher/) | [golang](go/q319.go)|Middle| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
 |299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
+|292|[Nim 游戏](https://leetcode.com/problems/nim-game/) | [golang](go/q292.go)|Easy| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
@@ -34,7 +36,7 @@
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
-|154|[寻找旋转排序数组中的最小值Ⅱ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [golang](go/q154.go)|Hard| ✔ |
+|154|[寻找旋转排序数组中的最小值Ⅱ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [golang](go/q154.go)|Hard| ✔ |
 |153|[寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [golang](go/q153.go)|Middle| ✔ |
 |146|[LRU缓存机制](https://leetcode.com/problems/lru-cache/) | [golang](go/q146.go)|Middle| ✔ |
 |141|[环形链表](https://leetcode.com/problems/linked-list-cycle/) | [golang](go/q141.go)|Easy| ✔ |
@@ -64,8 +66,9 @@
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](go/q21.go)|Easy| ✔ |
 |15|[三数之和](https://leetcode.com/problems/3sum/) | [golang](go/q15.go)|Middle| ✔ |
 |14|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/) | [golang](go/q14.go)|Easy| ✔ |
-|11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [golang](go/q11.go)|Middle| ✔ |
+|11|[盛最多水的容器](https://leetcode.com/problems/container-with-most-water/) | [golang](go/q11.go)|Middle| ✔ |
 |6|[Z 字形变换](https://leetcode.com/problems/zigzag-conversion/) | [golang](go/q6.go)|Middle| ✔ |
+|4|[寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [golang](go/q4.go)|Hard| ✔ |
 |3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](go/q3.go)|Middle| ✔ |
 |2|[两数相加](https://leetcode.com/problems/add-two-numbers/) | [golang](go/q2.go)|Middle| ✔ |
 |1|[两数之和](https://leetcode.com/problems/two-sum/) | [golang](go/q1.go)|Easy| ✔ |
