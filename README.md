@@ -11,7 +11,8 @@
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
-|875|[二叉树剪枝](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
+|875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
+|858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
