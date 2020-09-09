@@ -55,6 +55,7 @@
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |75|[颜色分类](https://leetcode.com/problems/sort-colors/) | [golang](go/q75.go)|Middle| ✔ |
+|73|[矩阵置零](https://leetcode.com/problems/set-matrix-zeroes/) | [golang](go/q73.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
 |69|[加一](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
