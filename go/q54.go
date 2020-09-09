@@ -1,12 +1,5 @@
 package program
 
-var changes = [][]int{
-	{0, 1},
-	{1, 0},
-	{-1, 0},
-	{0, -1},
-}
-
 func spiralOrder(matrix [][]int) []int {
 	h := len(matrix)
 	if h == 0 {

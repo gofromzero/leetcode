@@ -20,6 +20,7 @@
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
+|455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
 |450|[删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/) | [golang](go/q450.go)|Middle| ✔ |
 |438|[找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [golang](go/q438.go)|Middle| ✔ |
 |387|[字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/) | [golang](go/q344.go)|Easy| ✔ |
@@ -30,6 +31,7 @@
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
 |299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
 |292|[Nim 游戏](https://leetcode.com/problems/nim-game/) | [golang](go/q292.go)|Easy| ✔ |
+|289|[生命游戏](https://leetcode.com/problems/game-of-life/) | [golang](go/q289.go)|Middle| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
@@ -53,17 +55,22 @@
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |75|[颜色分类](https://leetcode.com/problems/sort-colors/) | [golang](go/q75.go)|Middle| ✔ |
+|74|[搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/) | [golang](go/q74.go)|Middle| ✔ |
+|73|[矩阵置零](https://leetcode.com/problems/set-matrix-zeroes/) | [golang](go/q73.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
-|69|[加一](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
+|69|[x 的平方根](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
 |63|[不同路径Ⅱ](https://leetcode.com/problems/unique-paths-ii/) | [golang](go/q63.go)|Middle| ✔ |
 |62|[不同路径](https://leetcode.com/problems/unique-paths/) | [golang](go/q62.go)|Middle| ✔ |
+|59|[螺旋矩阵 II](https://leetcode.com/problems/spiral-matrix-ii/) | [golang](go/q59.go)|Easy| ✔ |
 |58|[最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/) | [golang](go/q58.go)|Easy| ✔ |
 |54|[螺旋矩阵](https://leetcode.com/problems/spiral-matrix/) | [golang](go/q54.go)|Middle| ✔ |
 |53|[最大子序和](https://leetcode.com/problems/maximum-subarray/) | [golang](go/q53.go)|Easy| ✔ |
+|48|[旋转图像](https://leetcode.com/problems/rotate-image/) | [golang](go/q48.go)|Middle| ✔ |
 |46|[全排列](https://leetcode.com/problems/permutations/) | [golang](go/q46.go)|Easy| ✔ |
-|28|[实现strStr](https://leetcode.com/problems/implement-strstr/) | [golang](go/q28.go)|Easy| ✔ |
+|36|[有效的数独](https://leetcode.com/problems/valid-sudoku/) | [golang](go/q28.go)|Easy| ✔ |
+|28|[实现strStr](https://leetcode.com/problems/implement-strstr/) | [golang](go/q36.go)|Middle| ✔ |
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
 |19|[删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](go/q19.go)|Middle| ✔ |
