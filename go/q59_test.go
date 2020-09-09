@@ -25,6 +25,16 @@ func Test_generateMatrix(t *testing.T) {
 				{7, 6, 5},
 			},
 		},
+		{
+			name: "generateMatrix",
+			args: args{
+				n: 2,
+			},
+			want: [][]int{
+				{1, 2},
+				{4, 3},
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

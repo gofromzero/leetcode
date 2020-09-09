@@ -22,17 +22,11 @@ func generateMatrix(n int) [][]int {
 			x++
 		}
 		rx--
-		if lx > rx {
-			break
-		}
 		for i := rx; i >= lx; i-- {
 			result[ry][i] = x
 			x++
 		}
 		ry--
-		if ly > ry {
-			break
-		}
 		for i := ry; i >= ly; i-- {
 			result[i][lx] = x
 			x++
