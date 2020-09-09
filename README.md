@@ -31,6 +31,7 @@
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
 |299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
 |292|[Nim 游戏](https://leetcode.com/problems/nim-game/) | [golang](go/q292.go)|Easy| ✔ |
+|289|[生命游戏](https://leetcode.com/problems/game-of-life/) | [golang](go/q289.go)|Middle| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
