@@ -126,6 +126,12 @@ func Test_shellSort(t *testing.T) {
 				arr: []int{3, 4, 1},
 			},
 		},
+		{
+			name: "shellSort",
+			args: args{
+				arr: []int{3, 4, 3, 411, 331, 3131313, 1331, 122, 12},
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
