@@ -12,11 +12,9 @@ func findContentChildren(g []int, s []int) int {
 	for gi < len(g) && sj < len(s) {
 		if s[sj] >= g[gi] {
 			count++
-			sj++
 			gi++
-		} else if s[sj] < g[gi] {
-			sj++
 		}
+		sj++
 	}
 	return count
 }
