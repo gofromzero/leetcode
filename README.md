@@ -55,9 +55,10 @@
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |75|[颜色分类](https://leetcode.com/problems/sort-colors/) | [golang](go/q75.go)|Middle| ✔ |
+|74|[搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/) | [golang](go/q74.go)|Middle| ✔ |
 |73|[矩阵置零](https://leetcode.com/problems/set-matrix-zeroes/) | [golang](go/q73.go)|Middle| ✔ |
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/) | [golang](go/q70.go)|Easy| ✔ |
-|69|[加一](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
+|69|[x 的平方根](https://leetcode.com/problems/sqrtx/) | [golang](go/q69.go)|Easy| ✔ |
 |66|[加一](https://leetcode.com/problems/plus-one/submissions/) | [golang](go/q66.go)|Easy| ✔ |
 |64|[最小路径和](https://leetcode.com/problems/minimum-path-sum/) | [golang](go/q64.go)|Middle| ✔ |
 |63|[不同路径Ⅱ](https://leetcode.com/problems/unique-paths-ii/) | [golang](go/q63.go)|Middle| ✔ |
