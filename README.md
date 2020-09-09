@@ -63,7 +63,8 @@
 |54|[螺旋矩阵](https://leetcode.com/problems/spiral-matrix/) | [golang](go/q54.go)|Middle| ✔ |
 |53|[最大子序和](https://leetcode.com/problems/maximum-subarray/) | [golang](go/q53.go)|Easy| ✔ |
 |46|[全排列](https://leetcode.com/problems/permutations/) | [golang](go/q46.go)|Easy| ✔ |
-|28|[实现strStr](https://leetcode.com/problems/implement-strstr/) | [golang](go/q28.go)|Easy| ✔ |
+|36|[有效的数独](https://leetcode.com/problems/valid-sudoku/) | [golang](go/q28.go)|Easy| ✔ |
+|28|[实现strStr](https://leetcode.com/problems/implement-strstr/) | [golang](go/q36.go)|Middle| ✔ |
 |27|[移除元素](https://leetcode.com/problems/remove-element/) | [golang](go/q27.go)|Easy| ✔ |
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](go/q26.go)|Easy| ✔ |
 |19|[删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](go/q19.go)|Middle| ✔ |
