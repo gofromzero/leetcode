@@ -1,6 +1,8 @@
 package algo
 
-import "testing"
+import (
+	"testing"
+)
 
 func Test_bubbleSort(t *testing.T) {
 	type args struct {
@@ -138,6 +140,37 @@ func Test_shellSort(t *testing.T) {
 			shellSort(tt.args.arr)
 			if !checkSort(tt.args.arr) {
 				t.Errorf("shellSort() = %v, want sort", tt.args.arr)
+			}
+		})
+	}
+}
+
+func Test_mergeSort(t *testing.T) {
+	type args struct {
+		arr []int
+	}
+	tests := []struct {
+		name string
+		args args
+		want []int
+	}{
+		{
+			name: "mergeSort",
+			args: args{
+				arr: []int{3, 4, 1},
+			},
+		},
+		{
+			name: "mergeSort",
+			args: args{
+				arr: []int{3, 4, 3, 411, 331, 3131313, 1331, 122, 12},
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := mergeSort(tt.args.arr); !checkSort(got) {
+				t.Errorf("mergeSort() = %v", got)
 			}
 		})
 	}
