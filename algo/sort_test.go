@@ -175,3 +175,34 @@ func Test_mergeSort(t *testing.T) {
 		})
 	}
 }
+
+func Test_quickSort(t *testing.T) {
+	type args struct {
+		arr []int
+	}
+	tests := []struct {
+		name string
+		args args
+		want []int
+	}{
+		{
+			name: "quickSort",
+			args: args{
+				arr: []int{3, 4, 1},
+			},
+		},
+		{
+			name: "quickSort",
+			args: args{
+				arr: []int{3, 4, 3, 411, 331, 3131313, 1331, 122, 12},
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := quickSort(tt.args.arr); !checkSort(got) {
+				t.Errorf("quickSort() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
