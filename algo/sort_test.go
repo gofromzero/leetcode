@@ -287,6 +287,12 @@ func Test_bucketSort(t *testing.T) {
 		{
 			name: "bucketSort",
 			args: args{
+				arr: []int{},
+			},
+		},
+		{
+			name: "bucketSort",
+			args: args{
 				arr: []int{3, 4, 3, 411, 331, 3131313, 1331, 122, 12},
 			},
 		},
