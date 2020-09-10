@@ -206,3 +206,33 @@ func Test_quickSort(t *testing.T) {
 		})
 	}
 }
+
+func Test_heapSort(t *testing.T) {
+	type args struct {
+		arr []int
+	}
+	tests := []struct {
+		name string
+		args args
+	}{
+		{
+			name: "heapSort",
+			args: args{
+				arr: []int{3, 4, 1},
+			},
+		},
+		{
+			name: "heapSort",
+			args: args{
+				arr: []int{3, 4, 3, 411, 331, 3131313, 1331, 122, 12},
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := heapSort(tt.args.arr); !checkSort(got) {
+				t.Errorf("heapSort() = %v", got)
+			}
+		})
+	}
+}
