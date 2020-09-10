@@ -199,3 +199,60 @@ func heapify(arr []int, i, arrLen int) {
 		heapify(arr, largest, arrLen)
 	}
 }
+
+func countSort(arr []int) []int {
+	var max = math.MinInt64
+	for _, v := range arr {
+		if v > max {
+			max = v
+		}
+	}
+	temp := make([]int, max+1)
+	for _, v := range arr {
+		temp[v]++
+	}
+	var result = make([]int, len(arr))
+	var index int
+	for k, v := range temp {
+		for v > 0 {
+			result[index] = k
+			index++
+			v--
+		}
+	}
+	return result
+}
+
+func bucketSort(arr []int, size int) []int {
+	if len(arr) == 0 {
+		return arr
+	}
+	var minV = math.MaxInt64
+	var maxV = math.MinInt64
+	for _, v := range arr {
+		if v > maxV {
+			maxV = v
+		}
+		if v < minV {
+			minV = v
+		}
+	}
+	if size == 0 {
+		size = 5
+	}
+	count := int(math.Floor((float64(maxV-minV) / float64(size)) + 1))
+	buckets := make([][]int, count)
+
+	for i := 0; i < len(arr); i++ {
+		index := int(math.Floor(float64(arr[i]-minV) / float64(size)))
+		buckets[index] = append(buckets[index], arr[i])
+	}
+	var result []int
+	for i := 0; i < len(buckets); i++ {
+		insertSort(buckets[i])
+		for j := 0; j < len(buckets[i]); j++ {
+			result = append(result, buckets[i][j])
+		}
+	}
+	return result
+}
