@@ -108,3 +108,151 @@ func shellSort(arr []int) {
 		gap = gap / 3
 	}
 }
+
+func mergeSort(arr []int) []int {
+	length := len(arr)
+	if length < 2 {
+		return arr
+	}
+	middle := length / 2
+	left := arr[0:middle]
+	right := arr[middle:]
+
+	return merge(mergeSort(left), mergeSort(right))
+}
+
+func merge(left, right []int) []int {
+	var result []int
+	for len(left) > 0 && len(right) > 0 {
+		if left[0] < right[0] {
+			result = append(result, left[0])
+			left = left[1:]
+		} else {
+			result = append(result, right[0])
+			right = right[1:]
+		}
+	}
+
+	if len(left) > 0 {
+		result = append(result, left...)
+	}
+	if len(right) > 0 {
+		result = append(result, right...)
+	}
+	return result
+}
+
+func quickSort(arr []int) []int {
+	return _quickSort(arr, 0, len(arr)-1)
+}
+func _quickSort(arr []int, left, right int) []int {
+	if left < right {
+		partitionIndex := partition(arr, left, right)
+		_quickSort(arr, left, partitionIndex-1)
+		_quickSort(arr, partitionIndex+1, right)
+	}
+	return arr
+}
+
+func partition(arr []int, left, right int) int {
+	pivot := left
+	index := pivot + 1
+	for i := index; i <= right; i++ {
+		if arr[i] < arr[pivot] {
+			arr[i], arr[index] = arr[index], arr[i]
+			index++
+		}
+	}
+	arr[pivot], arr[index-1] = arr[index-1], arr[pivot]
+	return index - 1
+}
+
+func heapSort(arr []int) []int {
+	arrLen := len(arr)
+	buildMaxHeap(arr, arrLen)
+	for i := arrLen - 1; i >= 0; i-- {
+		arr[0], arr[i] = arr[i], arr[0]
+		arrLen--
+		heapify(arr, 0, arrLen)
+	}
+	return arr
+}
+
+func buildMaxHeap(arr []int, arrLen int) {
+	for i := arrLen / 2; i >= 0; i-- {
+		heapify(arr, i, arrLen)
+	}
+}
+
+func heapify(arr []int, i, arrLen int) {
+	left := 2*i + 1
+	right := 2*i + 2
+	largest := i
+	if left < arrLen && arr[left] > arr[largest] {
+		largest = left
+	}
+	if right < arrLen && arr[right] > arr[largest] {
+		largest = right
+	}
+	if largest != i {
+		arr[i], arr[largest] = arr[largest], arr[i]
+		heapify(arr, largest, arrLen)
+	}
+}
+
+func countSort(arr []int) []int {
+	var max = math.MinInt64
+	for _, v := range arr {
+		if v > max {
+			max = v
+		}
+	}
+	temp := make([]int, max+1)
+	for _, v := range arr {
+		temp[v]++
+	}
+	var result = make([]int, len(arr))
+	var index int
+	for k, v := range temp {
+		for v > 0 {
+			result[index] = k
+			index++
+			v--
+		}
+	}
+	return result
+}
+
+func bucketSort(arr []int, size int) []int {
+	if len(arr) == 0 {
+		return arr
+	}
+	var minV = math.MaxInt64
+	var maxV = math.MinInt64
+	for _, v := range arr {
+		if v > maxV {
+			maxV = v
+		}
+		if v < minV {
+			minV = v
+		}
+	}
+	if size == 0 {
+		size = 5
+	}
+	count := int(math.Floor((float64(maxV-minV) / float64(size)) + 1))
+	buckets := make([][]int, count)
+
+	for i := 0; i < len(arr); i++ {
+		index := int(math.Floor(float64(arr[i]-minV) / float64(size)))
+		buckets[index] = append(buckets[index], arr[i])
+	}
+	var result []int
+	for i := 0; i < len(buckets); i++ {
+		insertSort(buckets[i])
+		for j := 0; j < len(buckets[i]); j++ {
+			result = append(result, buckets[i][j])
+		}
+	}
+	return result
+}
