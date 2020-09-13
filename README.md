@@ -54,6 +54,7 @@
 |104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
+|94|[二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [golang](go/q94.go)|Middle| ✔ |
 |75|[颜色分类](https://leetcode.com/problems/sort-colors/) | [golang](go/q75.go)|Middle| ✔ |
 |74|[搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/) | [golang](go/q74.go)|Middle| ✔ |
 |73|[矩阵置零](https://leetcode.com/problems/set-matrix-zeroes/) | [golang](go/q73.go)|Middle| ✔ |
