@@ -53,6 +53,7 @@
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
+|100|[相同的树](https://leetcode.com/problems/same-tree/) | [golang](go/q100.go)|Easy| ✔ |
 |98|[验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](go/q98.go)|Middle| ✔ |
 |94|[二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [golang](go/q94.go)|Middle| ✔ |
 |75|[颜色分类](https://leetcode.com/problems/sort-colors/) | [golang](go/q75.go)|Middle| ✔ |
