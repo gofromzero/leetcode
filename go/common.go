@@ -21,6 +21,7 @@ type LinkNode struct {
 	pre, next *LinkNode
 }
 
+// Node Node
 type Node struct {
 	Val      int
 	Children []*Node
