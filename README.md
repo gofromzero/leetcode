@@ -11,6 +11,7 @@
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
+|897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
 |875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
 |858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
@@ -19,6 +20,8 @@
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
+|617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [golang](go/q617.go)|Easy| ✔ |
+|589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
 |450|[删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/) | [golang](go/q450.go)|Middle| ✔ |

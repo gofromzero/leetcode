@@ -21,6 +21,12 @@ type LinkNode struct {
 	pre, next *LinkNode
 }
 
+// Node Node
+type Node struct {
+	Val      int
+	Children []*Node
+}
+
 func (l *ListNode) String() string {
 	if l == nil {
 		return ""
