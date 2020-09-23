@@ -15,35 +15,6 @@ func Test_preorder(t *testing.T) {
 		want []int
 	}{
 		{
-			name: "preorder",
-			args: args{
-				root: &Node{
-					Val:      0,
-					Children: []*Node{},
-				},
-			},
-			want: nil,
-		},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if got := preorder(tt.args.root); !reflect.DeepEqual(got, tt.want) {
-				t.Errorf("preorder() = %v, want %v", got, tt.want)
-			}
-		})
-	}
-}
-
-func Test_preorder1(t *testing.T) {
-	type args struct {
-		root *Node
-	}
-	tests := []struct {
-		name string
-		args args
-		want []int
-	}{
-		{
 			name: "",
 			args: args{
 				root: &Node{
