@@ -11,6 +11,7 @@
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
+|897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
 |875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
 |858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
