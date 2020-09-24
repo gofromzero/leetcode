@@ -7,6 +7,7 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
+|1528|[重新排列字符串](https://leetcode.com/problems/shuffle-string/) | [golang](go/q1528.go)|Easy| ✔ |
 |1323|[6 和 9 组成的最大数字](https://leetcode.com/problems/maximum-69-number/) | [golang](go/q1323.go)|Easy| ✔ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
