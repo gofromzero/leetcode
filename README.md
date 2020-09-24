@@ -7,6 +7,7 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
+|1528|[重新排列字符串](https://leetcode.com/problems/shuffle-string/) | [golang](go/q1528.go)|Easy| ✔ |
 |1323|[6 和 9 组成的最大数字](https://leetcode.com/problems/maximum-69-number/) | [golang](go/q1323.go)|Easy| ✔ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
@@ -23,6 +24,7 @@
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [golang](go/q617.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
+|458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/) | [golang](go/q458.go)|Hard| ✔ |
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
 |450|[删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/) | [golang](go/q450.go)|Middle| ✔ |
 |438|[找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [golang](go/q438.go)|Middle| ✔ |
@@ -41,6 +43,7 @@
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
 |215|[数组中的第K个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [golang](go/q215.go)|Middle| ✔ |
 |222|[完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/) | [golang](go/q222.go)|Middle| ✔ |
+|205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [golang](go/q205.go)|Easy| ✔ |
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/) | [golang](go/q189.go)|Easy| ✔ |
