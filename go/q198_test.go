@@ -10,14 +10,13 @@ func Test_rob(t *testing.T) {
 		name string
 		args args
 		want int
-	}{
-		{
-			name: "rob case 1",
-			args: args{
-				nums: []int{1, 2, 3, 1},
-			},
-			want: 4,
+	}{{
+		name: "rob case 1",
+		args: args{
+			nums: []int{1, 2, 3, 1},
 		},
+		want: 4,
+	},
 		{
 			name: "rob case 2",
 			args: args{

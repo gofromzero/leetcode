@@ -11,6 +11,9 @@
 |1323|[6 和 9 组成的最大数字](https://leetcode.com/problems/maximum-69-number/) | [golang](go/q1323.go)|Easy| ✔ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
+|1022|[从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | [golang](go/q1022.go)|Easy| ✔ |
+|965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/) | [golang](go/q965.go)|Easy| ✔ |
+|938|[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | [golang](go/q938.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
@@ -20,9 +23,13 @@
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
+|669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [golang](go/q669.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
+|637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [golang](go/q637.go)|Easy| ✔ |
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [golang](go/q617.go)|Easy| ✔ |
+|590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [golang](go/q590.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
+|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
 |458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/) | [golang](go/q458.go)|Hard| ✔ |
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
@@ -34,15 +41,17 @@
 |343|[整数拆分](https://leetcode.com/problems/integer-break/) | [golang](go/q343.go)|Middle| ✔ |
 |319|[灯泡开关](https://leetcode.com/problems/bulb-switcher/) | [golang](go/q319.go)|Middle| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
-|299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
+|299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/q299.go)|Easy| ✔ |
 |292|[Nim 游戏](https://leetcode.com/problems/nim-game/) | [golang](go/q292.go)|Easy| ✔ |
 |289|[生命游戏](https://leetcode.com/problems/game-of-life/) | [golang](go/q289.go)|Middle| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
+|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [golang](go/q257.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
-|215|[数组中的第K个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [golang](go/q215.go)|Middle| ✔ |
+|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [golang](go/q226.go)|Easy| ✔ |
 |222|[完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/) | [golang](go/q222.go)|Middle| ✔ |
+|215|[数组中的第K个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [golang](go/q215.go)|Middle| ✔ |
 |205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [golang](go/q205.go)|Easy| ✔ |
 |198|[旋转数组](https://leetcode.com/problems/house-robber/) | [golang](go/q198.go)|Easy| ✔ |
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/) | [golang](go/q191.go)|Easy| ✔ |
@@ -97,6 +106,7 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
-|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz064.go)|Middle| ✔ |
-|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](go/jz061.go)|Easy| ✔ |
-|57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
+|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](offer/q64.go)|Middle| ✔ |
+|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](offer/q61.go)|Easy| ✔ |
+|57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](offer/q57.go)|Easy| ✔ |
+|27|[ 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [golang](offer/q27.go)|Easy| ✔ |
