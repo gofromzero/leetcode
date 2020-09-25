@@ -11,6 +11,7 @@
 |1323|[6 和 9 组成的最大数字](https://leetcode.com/problems/maximum-69-number/) | [golang](go/q1323.go)|Easy| ✔ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
+|965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/) | [golang](go/q965.go)|Easy| ✔ |
 |938|[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | [golang](go/q938.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
@@ -38,7 +39,7 @@
 |343|[整数拆分](https://leetcode.com/problems/integer-break/) | [golang](go/q343.go)|Middle| ✔ |
 |319|[灯泡开关](https://leetcode.com/problems/bulb-switcher/) | [golang](go/q319.go)|Middle| ✔ |
 |300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/) | [golang](go/q300.go)|Middle| ✔ |
-|299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/299.go)|Easy| ✔ |
+|299|[猜数字游戏](https://leetcode.com/problems/bulls-and-cows/) | [golang](go/q299.go)|Easy| ✔ |
 |292|[Nim 游戏](https://leetcode.com/problems/nim-game/) | [golang](go/q292.go)|Easy| ✔ |
 |289|[生命游戏](https://leetcode.com/problems/game-of-life/) | [golang](go/q289.go)|Middle| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
@@ -102,7 +103,7 @@
 
 | # | Title | Solution | Difficulty | status |
 |---| ----- | ---------- | ---------- | ------ |
-|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](go/jz064.go)|Middle| ✔ |
-|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](go/jz061.go)|Easy| ✔ |
-|57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](go/jz057.go)|Easy| ✔ |
+|64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [golang](offer/q64.go)|Middle| ✔ |
+|61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [golang](offer/q61.go)|Easy| ✔ |
+|57-Ⅱ|[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [golang](offer/q57.go)|Easy| ✔ |
 |27|[ 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [golang](offer/q27.go)|Easy| ✔ |

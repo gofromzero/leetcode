@@ -1,4 +1,4 @@
-package program
+package offer
 
 func isStraight(nums []int) bool {
 	arr := make([]int, 14)
