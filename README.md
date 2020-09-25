@@ -46,6 +46,7 @@
 |289|[生命游戏](https://leetcode.com/problems/game-of-life/) | [golang](go/q289.go)|Middle| ✔ |
 |278|[第一个错误的版本](https://leetcode.com/problems/first-bad-version/) | [golang](go/q278.go)|Easy| ✔ |
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
+|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [golang](go/q257.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [golang](go/q226.go)|Easy| ✔ |
