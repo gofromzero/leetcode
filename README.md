@@ -18,6 +18,7 @@
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
 |875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
+|872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [golang](go/q872.go)|Easy| ✔ |
 |858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
