@@ -1,4 +1,4 @@
-package program
+package offer
 
 func findContinuousSequence(target int) [][]int {
 	result := make([][]int, 0)
