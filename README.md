@@ -18,6 +18,7 @@
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
 |875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
+|872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [golang](go/q872.go)|Easy| ✔ |
 |858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
@@ -30,6 +31,7 @@
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [golang](go/q590.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
+|530|[二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q530.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
 |458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/) | [golang](go/q458.go)|Hard| ✔ |
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
@@ -48,6 +50,7 @@
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [golang](go/q257.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
+|235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [golang](go/q235.go)|Easy| ✔ |
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [golang](go/q226.go)|Easy| ✔ |
 |222|[完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/) | [golang](go/q222.go)|Middle| ✔ |
