@@ -48,6 +48,7 @@
 |268|[缺失数字](https://leetcode.com/problems/missing-number/) | [golang](go/q268.go)|Easy| ✔ |
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [golang](go/q257.go)|Easy| ✔ |
 |239|[滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) | [golang](go/q239.go)|Middle| ✔ |
+|235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [golang](go/q235.go)|Easy| ✔ |
 |231|[2的幂](https://leetcode.com/problems/power-of-two/) | [golang](go/q231.go)|Easy| ✔ |
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [golang](go/q226.go)|Easy| ✔ |
 |222|[完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/) | [golang](go/q222.go)|Middle| ✔ |
