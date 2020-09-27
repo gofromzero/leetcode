@@ -31,6 +31,7 @@
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [golang](go/q617.go)|Easy| ✔ |
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [golang](go/q590.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
+|563|[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [golang](go/q563.go)|Easy| ✔ |
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
 |530|[二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q530.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
