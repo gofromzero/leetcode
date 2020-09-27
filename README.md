@@ -39,6 +39,7 @@
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
 |450|[删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/) | [golang](go/q450.go)|Middle| ✔ |
 |438|[找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [golang](go/q438.go)|Middle| ✔ |
+|404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [golang](go/q404.go)|Easy| ✔ |
 |387|[字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/) | [golang](go/q344.go)|Easy| ✔ |
 |350|[反转字符串](https://leetcode.com/problems/reverse-string/) | [golang](go/q387.go)|Easy| ✔ |
 |344|[两个数组的交集 II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [golang](go/q350.go)|Easy| ✔ |
