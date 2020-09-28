@@ -12,6 +12,7 @@
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |1022|[从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | [golang](go/q1022.go)|Easy| ✔ |
+|993|[二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [golang](go/q993.go)|Easy| ✔ |
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/) | [golang](go/q965.go)|Easy| ✔ |
 |938|[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | [golang](go/q938.go)|Easy| ✔ |
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
