@@ -75,6 +75,7 @@
 |125|[验证回文串](https://leetcode.com/problems/valid-palindrome/) | [golang](go/q125.go)|Easy| ✔ |
 |122|[买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](go/q122.go)|Easy| ✔ |
 |120|[三角形最小路径和](https://leetcode.com/problems/triangle/) | [golang](go/q120.go)|Middle| ✔ |
+|111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [golang](go/q111.go)|Easy| ✔ |
 |110|[平衡二叉树](https://leetcode.com/problems/balanced-binary-tree/) | [golang](go/q110.go)|Easy| ✔ |
 |104|[二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](go/q104.go)|Easy| ✔ |
 |102|[二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](go/q102.go)|Middle| ✔ |
