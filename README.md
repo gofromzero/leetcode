@@ -39,6 +39,7 @@
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [golang](go/q543.go)|Easy| ✔ |
 |530|[二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q530.go)|Easy| ✔ |
+|501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [golang](go/q501.go)|Easy| ✔ |
 |475|[供暖器](https://leetcode.com/problems/heaters/) | [golang](go/q475.go)|Easy| ✔ |
 |458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/) | [golang](go/q458.go)|Hard| ✔ |
 |455|[分发饼干](https://leetcode.com/problems/assign-cookies/) | [golang](go/q455.go)|Easy| ✔ |
