@@ -22,7 +22,7 @@ func same(t1, t2 *TreeNode) bool {
 	}
 	if t1.Val == t2.Val {
 		return same(t1.Left, t2.Left) && same(t1.Right, t2.Right)
-	} else {
-		return false
 	}
+
+	return false
 }
