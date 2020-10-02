@@ -36,6 +36,7 @@
 |606|[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [golang](go/q606.go)|Easy| ✔ |
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [golang](go/q590.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
+|572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [golang](go/q572.go)|Easy| ✔ |
 |563|[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [golang](go/q563.go)|Easy| ✔ |
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [golang](go/q543.go)|Easy| ✔ |
