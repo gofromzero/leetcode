@@ -24,9 +24,12 @@
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |783|[二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [golang](go/q783.go)|Easy| ✔ |
+|771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [golang](go/q771.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
 |701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [golang](go/.go)|Easy| ✔ |
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
+|687|[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [golang](go/q687.go)|Easy| ✔ |
+|671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [golang](go/q971.go)|Easy| ✔ |
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [golang](go/q669.go)|Easy| ✔ |
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [golang](go/q653.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
@@ -35,6 +38,7 @@
 |606|[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [golang](go/q606.go)|Easy| ✔ |
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [golang](go/q590.go)|Easy| ✔ |
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [golang](go/q589.go)|Easy| ✔ |
+|572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [golang](go/q572.go)|Easy| ✔ |
 |563|[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [golang](go/q563.go)|Easy| ✔ |
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [golang](go/q559.go)|Easy| ✔ |
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [golang](go/q543.go)|Easy| ✔ |
