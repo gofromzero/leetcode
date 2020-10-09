@@ -9,6 +9,8 @@
 |---| ----- | ---------- | ---------- | ------ |
 |1528|[重新排列字符串](https://leetcode.com/problems/shuffle-string/) | [golang](go/q1528.go)|Easy| ✔ |
 |1323|[6 和 9 组成的最大数字](https://leetcode.com/problems/maximum-69-number/) | [golang](go/q1323.go)|Easy| ✔ |
+|1315|[祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [golang](go/q1315.go)|Middle| ✔ |
+|1302|[层数最深叶子节点的和](https://leetcode-cn.com/problems/deepest-leaves-sum/) | [golang](go/q1302.go)|Middle| ✔ |
 |1227|[飞机座位分配概率](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [golang](go/q1227.go)|Middle| ✔ |
 |1033|[移动石子直到连续](https://leetcode.com/problems/moving-stones-until-consecutive/) | [golang](go/q1033.go)|Easy| ✔ |
 |1022|[从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | [golang](go/q1022.go)|Easy| ✔ |
@@ -31,6 +33,7 @@
 |687|[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [golang](go/q687.go)|Easy| ✔ |
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [golang](go/q971.go)|Easy| ✔ |
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [golang](go/q669.go)|Easy| ✔ |
+|654|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) | [golang](go/q654.go)|Middle| ✔ |
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [golang](go/q653.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [golang](go/q637.go)|Easy| ✔ |
