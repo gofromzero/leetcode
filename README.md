@@ -31,6 +31,7 @@
 |687|[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [golang](go/q687.go)|Easy| ✔ |
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [golang](go/q971.go)|Easy| ✔ |
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [golang](go/q669.go)|Easy| ✔ |
+|654|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) | [golang](go/q654.go)|Middle| ✔ |
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [golang](go/q653.go)|Easy| ✔ |
 |650|[只有两个键的键盘](https://leetcode.com/problems/2-keys-keyboard/) | [golang](go/q650.go)|Middle| ✔ |
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [golang](go/q637.go)|Easy| ✔ |
