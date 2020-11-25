@@ -24,15 +24,16 @@
 |905|[按奇偶排序数组](https://leetcode.com/problems/sort-array-by-parity/) | [golang](go/q905.go)|Easy| ✔ |
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [golang](go/q897.go)|Easy| ✔ |
 |881|[救生艇](https://leetcode.com/problems/boats-to-save-people/) | [golang](go/q881.go)|Middle| ✔ |
-|875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
+|875|[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [golang](go/q872.go)|Easy| ✔ |
-|858|[镜面反射](https://leetcode.com/problems/koko-eating-bananas/) | [golang](go/q875.go)|Middle| ✔ |
+|858|[镜面反射](https://leetcode.com/problems/mirror-reflection/) | [golang](go/q858.go)|Middle| ✔ |
 |814|[二叉树剪枝](https://leetcode.com/problems/binary-tree-pruning/) | [golang](go/q814.go)|Middle| ✔ |
 |796|[旋转字符串](https://leetcode.com/problems/rotate-string/) | [golang](go/q796.go)|Easy| ✔ |
 |783|[二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [golang](go/q783.go)|Easy| ✔ |
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [golang](go/q771.go)|Easy| ✔ |
 |733|[图像渲染](https://leetcode.com/problems/flood-fill/) | [golang](go/q733.go)|Easy| ✔ |
-|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [golang](go/.go)|Easy| ✔ |
+|703|[数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [golang](go/703.go)|Easy| ✔ |
+|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [golang](go/701.go)|Easy| ✔ |
 |700|[二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [golang](go/q700.go)|Easy| ✔ |
 |687|[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [golang](go/q687.go)|Easy| ✔ |
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [golang](go/q971.go)|Easy| ✔ |
