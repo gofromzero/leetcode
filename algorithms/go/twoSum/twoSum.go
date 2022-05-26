@@ -8,7 +8,7 @@ func twoSum(nums []int, target int) []int {
 	var l = make(map[int]int)
 	for i, v := range nums {
 		if raw, ok := l[v]; ok {
-			return []int{i, raw}
+			return []int{raw, i}
 		}
 		l[target-v] = i
 	}
