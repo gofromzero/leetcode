@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/25
 
-package twoSum
+package twosum
 
 func twoSum(nums []int, target int) []int {
 	var l = make(map[int]int)

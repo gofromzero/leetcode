@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/26
 
-package addTwoNumbers
+package addtwonumbers
 
 // ListNode Definition for singly-linked list.
 type ListNode struct {

@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/26
 
-package addTwoNumbers
+package addtwonumbers
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	var left int

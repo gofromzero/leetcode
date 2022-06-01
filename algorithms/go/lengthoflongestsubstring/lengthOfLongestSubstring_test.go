@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/26
 
-package lengthOfLongestSubstring
+package lengthoflongestsubstring
 
 import "testing"
 

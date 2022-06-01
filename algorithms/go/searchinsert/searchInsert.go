@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/27
 
-package searchInsert
+package searchinsert
 
 func searchInsert(nums []int, target int) int {
 	i, j := 0, len(nums)-1

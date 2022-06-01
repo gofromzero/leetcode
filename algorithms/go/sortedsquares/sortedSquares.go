@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/6/1
 
-package sortedSquares
+package sortedsquares
 
 import "sort"
 

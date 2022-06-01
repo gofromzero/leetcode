@@ -2,7 +2,7 @@
 // Author: Spume
 // Modified: 2022/5/27
 
-package binarySearch
+package binarysearch
 
 import "testing"
 
