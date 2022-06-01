@@ -40,6 +40,32 @@ func Test_sortedSquares(t *testing.T) {
 			}
 		})
 	}
+}
+
+func Test_sortedSquares2(t *testing.T) {
+	type args struct {
+		nums []int
+	}
+	tests := []struct {
+		name string
+		args args
+		want []int
+	}{
+		{
+			name: "sortedSquares",
+			args: args{
+				nums: []int{-7, -3, 2, 3, 11},
+			},
+			want: []int{4, 9, 9, 49, 121},
+		},
+		{
+			name: "sortedSquares",
+			args: args{
+				nums: []int{-4, -1, 0, 3, 10},
+			},
+			want: []int{0, 1, 9, 16, 100},
+		},
+	}
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
