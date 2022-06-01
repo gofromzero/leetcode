@@ -1,6 +1,6 @@
 # LeetCode
 ## LeetCode Alogrithm
-
+[cover]
 
 
 | #   | Title                                                                                      | Solution                                                                   | Difficulty |
