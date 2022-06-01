@@ -6,6 +6,7 @@
 | #   | Title                                                                                      | Solution                                                                   | Difficulty |
 |-----|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------|
 | 977 | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)                         | [go](./algorithms/go/sortedsquares/sortedSquares.go)                       | easy       |
+| 876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                         | [go](./algorithms/go/middlenode/middelNode.go)                             | easy       |
 | 704 | [二分查找](https://leetcode.cn/problems/binary-search/)                                        | [go](./algorithms/go/binarysearch/binarySearch.go)                         | easy       |
 | 557 | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)               | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
@@ -13,5 +14,4 @@
 | 3   | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [go](./algorithms/go/lengthoflongestsubstring/lengthOfLongestSubstring.go) | middle     |
 | 2   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)                                      | [go](./algorithms/go/addtwonumbers/addTwoNumbers.go)                       | middle     |
 | 1   | [两数之和](https://leetcode.cn/problems/two-sum/)                                              | [go](./algorithms/go/twosum/twoSum.go)                                     | easy       |
-
 
