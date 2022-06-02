@@ -1,5 +1,5 @@
 # LeetCode
-## LeetCode Alogrithm
+## LeetCode Alogrithm solution
 [![codecov](https://codecov.io/gh/gofromzero/leetcode/branch/master/graph/badge.svg?token=3Z6VEuf8w2)](https://codecov.io/gh/gofromzero/leetcode)
 
 
