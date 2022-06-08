@@ -18,12 +18,18 @@ func Test_isPowerOfTwo(t *testing.T) {
 		{
 			name: "",
 			args: args{
+				n: 0,
+			},
+			want: false,
+		}, {
+			name: "",
+			args: args{
 				n: 1 << 3,
 			},
 			want: true,
 		},
-		{
-			name: "",
+
+		{name: "",
 			args: args{
 				n: 1<<3 + 3,
 			},
