@@ -29,8 +29,7 @@ func Test_isPowerOfTwo(t *testing.T) {
 			want: true,
 		},
 
-		{
-			name: "",
+		{name: "",
 			args: args{
 				n: 1<<3 + 3,
 			},
