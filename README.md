@@ -12,6 +12,7 @@
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)                                    | [go](./algorithms/go/hammingweight/hammingWeight.go)                       | easy       |
+| 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
 | 35  | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/)                             | [go](./algorithms/go/searchinsert/searchInsert.go)                         | easy       |
 | 3   | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [go](./algorithms/go/lengthoflongestsubstring/lengthOfLongestSubstring.go) | middle     |
 | 2   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)                                      | [go](./algorithms/go/addtwonumbers/addTwoNumbers.go)                       | middle     |
