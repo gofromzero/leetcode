@@ -16,20 +16,21 @@ func Test_isPowerOfTwo(t *testing.T) {
 		want bool
 	}{
 		{
-			name: "",
+			name: "isPowerOfTwo",
 			args: args{
 				n: 0,
 			},
 			want: false,
 		}, {
-			name: "",
+			name: "isPowerOfTwo",
 			args: args{
 				n: 1 << 3,
 			},
 			want: true,
 		},
 
-		{name: "",
+		{
+			name: "isPowerOfTwo",
 			args: args{
 				n: 1<<3 + 3,
 			},
