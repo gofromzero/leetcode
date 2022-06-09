@@ -12,6 +12,7 @@
 | 557 | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)               | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
+| 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                    | [go](./algorithms/go/reverselist/reverseList.go)                           | easy       |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)                                    | [go](./algorithms/go/hammingweight/hammingWeight.go)                       | easy       |
 | 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/)                                       | [go](./algorithms/go/reversebits/reverseBits.go)                           | easy       |
 | 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
@@ -19,7 +20,7 @@
 | 136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/)                                    | [go](./algorithms/go/singlenumber/singleNumber.go)                         | middle     |
 | 70  | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | [go](./algorithms/go/climbstairs/climbStairs.go)                           | easy       |
 | 35  | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/)                             | [go](./algorithms/go/searchinsert/searchInsert.go)                         | easy       |
-| 21  | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)            | [go](./algorithms/go/mergetwolists/mergeTwoLists.go)                       | easy       |
+| 21  | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                           | [go](./algorithms/go/mergetwolists/mergeTwoLists.go)                       | easy       |
 | 19  | [删除链表的倒数第 N 个结](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)            | [go](./algorithms/go/removenthfromend/removeNthFromEnd.go)                 | easy       |
 | 3   | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [go](./algorithms/go/lengthoflongestsubstring/lengthOfLongestSubstring.go) | middle     |
 | 2   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)                                      | [go](./algorithms/go/addtwonumbers/addTwoNumbers.go)                       | middle     |
