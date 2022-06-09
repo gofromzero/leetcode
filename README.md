@@ -15,6 +15,7 @@
 | 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/)                                       | [go](./algorithms/go/reversebits/reverseBits.go)                           | easy       |
 | 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)         | [go](./algorithms/go/twosum2/twoSum.go)                                    | middle     |
+| 136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/)                                    | [go](./algorithms/go/singlenumber/singleNumber.go)                         | middle     |
 | 70  | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | [go](./algorithms/go/climbstairs/climbStairs.go)                           | easy       |
 | 35  | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/)                             | [go](./algorithms/go/searchinsert/searchInsert.go)                         | easy       |
 | 19  | [删除链表的倒数第 N 个结](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)            | [go](./algorithms/go/removenthfromend/removeNthFromEnd.go)                 | easy       |
