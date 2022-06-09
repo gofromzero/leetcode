@@ -9,10 +9,11 @@
 | 876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                         | [go](./algorithms/go/middlenode/middleNode.go)                             | easy       |
 | 733 | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                           | [go](./algorithms/go/floodfill/floodFill.go)                               | easy       |
 | 704 | [二分查找](https://leetcode.cn/problems/binary-search/)                                        | [go](./algorithms/go/binarysearch/binarySearch.go)                         | easy       |
+| 617 | [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)                              | [go](./algorithms/go/mergetrees/mergeTrees.go)                             | easy       |
 | 557 | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)               | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
-| 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                    | [go](./algorithms/go/reverselist/reverseList.go)                           | easy       |
+| 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                  | [go](./algorithms/go/reverselist/reverseList.go)                           | easy       |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)                                    | [go](./algorithms/go/hammingweight/hammingWeight.go)                       | easy       |
 | 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/)                                       | [go](./algorithms/go/reversebits/reverseBits.go)                           | easy       |
 | 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
