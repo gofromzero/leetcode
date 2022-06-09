@@ -9,6 +9,7 @@
 | 876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                         | [go](./algorithms/go/middlenode/middleNode.go)                             | easy       |
 | 733 | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                           | [go](./algorithms/go/floodfill/floodFill.go)                               | easy       |
 | 704 | [二分查找](https://leetcode.cn/problems/binary-search/)                                        | [go](./algorithms/go/binarysearch/binarySearch.go)                         | easy       |
+| 695 | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/)                                | [go](./algorithms/go/maxareaofisland/maxAreaOfIsland.go)                   | easy       |
 | 617 | [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)                              | [go](./algorithms/go/mergetrees/mergeTrees.go)                             | easy       |
 | 557 | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)               | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
