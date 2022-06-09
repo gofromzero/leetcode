@@ -12,6 +12,7 @@
 | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)                                    | [go](./algorithms/go/hammingweight/hammingWeight.go)                       | easy       |
+| 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/)                                       | [go](./algorithms/go/reversebits/reverseBits.go)                           | easy       |
 | 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)         | [go](./algorithms/go/twosum2/twoSum.go)                                    | middle     |
 | 70  | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | [go](./algorithms/go/climbstairs/climbStairs.go)                           | easy       |
