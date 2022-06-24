@@ -1,7 +1,7 @@
 # LeetCode
 ## LeetCode Alogrithm solution
 [![codecov](https://codecov.io/gh/gofromzero/leetcode/branch/master/graph/badge.svg?token=3Z6VEuf8w2)](https://codecov.io/gh/gofromzero/leetcode)
-
+[![Github Action](https://github.com/gofromzero/leetcode/actions/workflows/main.yml/badge.svg)](https://github.com/gofromzero/leetcode/actions/workflows/main.yml)
 
 | #   | Title                                                                                      | Solution                                                                   | Difficulty |
 |-----|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------|
