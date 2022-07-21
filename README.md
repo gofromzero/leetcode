@@ -9,6 +9,7 @@
 | 977  | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)                         | [go](./algorithms/go/sortedsquares/sortedSquares.go)                       | easy       |
 | 876  | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                         | [go](./algorithms/go/middlenode/middleNode.go)                             | easy       |
 | 733  | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                           | [go](./algorithms/go/floodfill/floodFill.go)                               | easy       |
+| 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                                | [go](./algorithms/go/pivotIndex/pivotIndex.go)                             | easy       |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                        | [go](./algorithms/go/binarysearch/binarySearch.go)                         | easy       |
 | 695  | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/)                                | [go](./algorithms/go/maxareaofisland/maxAreaOfIsland.go)                   | easy       |
 | 617  | [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)                              | [go](./algorithms/go/mergetrees/mergeTrees.go)                             | easy       |
