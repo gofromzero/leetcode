@@ -17,6 +17,7 @@
 | 344  | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
 | 206  | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                  | [go](./algorithms/go/reverselist/reverseList.go)                           | easy       |
+| 205  | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/)                                  | [go](./algorithms/go/isIsomorphic/isIsomorphic.go)                         | easy       |
 | 202  | [快乐数](https://leetcode.cn/problems/happy-number/)                                          | [go](./algorithms/go/ishappy/isHappy.go)                                   | easy       |
 | 191  | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)                                    | [go](./algorithms/go/hammingweight/hammingWeight.go)                       | easy       |
 | 190  | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/)                                       | [go](./algorithms/go/reversebits/reverseBits.go)                           | easy       |
