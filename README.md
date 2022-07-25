@@ -25,6 +25,7 @@
 | 189  | [轮转数组](https://leetcode.cn/problems/rotate-array/)                                         | [go](./algorithms/go/rotate/rotate.go)                                     | middle     |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)         | [go](./algorithms/go/twosum2/twoSum.go)                                    | middle     |
 | 136  | [只出现一次的数字](https://leetcode.cn/problems/single-number/)                                    | [go](./algorithms/go/singlenumber/singleNumber.go)                         | middle     |
+| 121  | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                 | [go](./algorithms/go/maxProfit/maxProfit.go)                               | middle     |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | [go](./algorithms/go/climbstairs/climbStairs.go)                           | easy       |
 | 35   | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/)                             | [go](./algorithms/go/searchinsert/searchInsert.go)                         | easy       |
 | 21   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                           | [go](./algorithms/go/mergetwolists/mergeTwoLists.go)                       | easy       |
