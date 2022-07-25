@@ -14,6 +14,7 @@
 | 695  | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/)                                | [go](./algorithms/go/maxareaofisland/maxAreaOfIsland.go)                   | easy       |
 | 617  | [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)                              | [go](./algorithms/go/mergetrees/mergeTrees.go)                             | easy       |
 | 557  | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)               | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
+| 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                      | [go](./algorithms/go/longestPalindrome/longestPalindrome.go)                       | easy       |
 | 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                      | [go](./algorithms/go/isSubsequence/isSubsequence.go)                       | easy       |
 | 344  | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
