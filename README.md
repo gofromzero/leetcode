@@ -18,7 +18,7 @@
 | 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                  | [go](./algorithms/go/longestPalindrome/longestPalindrome.go)               | easy       |
 | 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                      | [go](./algorithms/go/isSubsequence/isSubsequence.go)                       | easy       |
 | 344  | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                      | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
-| 278  | [ 第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                         | [go](./algorithms/go/firstBadVersion/firstBadVersion.go)                         | easy       |
+| 278  | [ 第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                               | [go](./algorithms/go/firstBadVersion/firstBadVersion.go)                   | easy       |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                         | [go](./algorithms/go/ispoweroftwo/isPowerOfTwo.go)                         | easy       |
 | 206  | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                  | [go](./algorithms/go/reverselist/reverseList.go)                           | easy       |
 | 205  | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/)                                  | [go](./algorithms/go/isIsomorphic/isIsomorphic.go)                         | easy       |
