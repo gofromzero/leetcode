@@ -31,6 +31,7 @@
 | 136  | [只出现一次的数字](https://leetcode.cn/problems/single-number/)                                    | [go](./algorithms/go/singlenumber/singleNumber.go)                         | middle     |
 | 121  | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                 | [go](./algorithms/go/maxProfit/maxProfit.go)                               | middle     |
 | 102  | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)                | [go](./algorithms/go/preorder/preorder.go)                                 | middle     |
+| 98   | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)                | [go](./algorithms/go/isValidBST/isValidBST.go)                                 | middle     |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | [go](./algorithms/go/climbstairs/climbStairs.go)                           | easy       |
 | 35   | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/)                             | [go](./algorithms/go/searchinsert/searchInsert.go)                         | easy       |
 | 21   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                           | [go](./algorithms/go/mergetwolists/mergeTwoLists.go)                       | easy       |
