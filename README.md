@@ -15,6 +15,7 @@
 | 617  | [合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)                                | [go](./algorithms/go/mergetrees/mergeTrees.go)                             | easy       |
 | 589. | [N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)                     | [go](./algorithms/go/preorder/preorder.go)                                 | easy       |
 | 557  | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)                 | [go](./algorithms/go/reversewords/reverseWords.go)                         | easy       |
+| 509  | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                      | [go](./algorithms/go/fib/fib.go)                                           | easy       |
 | 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                    | [go](./algorithms/go/longestPalindrome/longestPalindrome.go)               | easy       |
 | 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                        | [go](./algorithms/go/isSubsequence/isSubsequence.go)                       | easy       |
 | 344  | [反转字符串](https://leetcode.cn/problems/reverse-string/)                                        | [go](./algorithms/go/reversestring/reverseString.go)                       | easy       |
