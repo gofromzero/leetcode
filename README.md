@@ -8,6 +8,7 @@
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                            | [go](./algorithms/go/runningSum/runningSum.go)                             | easy       |
 | 977  | [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)                           | [go](./algorithms/go/sortedsquares/sortedSquares.go)                       | easy       |
 | 876  | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                           | [go](./algorithms/go/middlenode/middleNode.go)                             | easy       |
+| 746  | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)                          | [go](./algorithms/go/minCostClimbingStairs/minCostClimbingStairs.go)       | easy       |
 | 733  | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                             | [go](./algorithms/go/floodfill/floodFill.go)                               | easy       |
 | 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                                  | [go](./algorithms/go/pivotIndex/pivotIndex.go)                             | easy       |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                          | [go](./algorithms/go/binarysearch/binarySearch.go)                         | easy       |
