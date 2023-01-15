@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/gofromzero/leetcode/compare/v1.0.0...v1.1.0) (2023-01-15)
+
+
+### Features
+
+* **problem:** 2293. 极大极小游戏 ([10d6f4d](https://github.com/gofromzero/leetcode/commit/10d6f4dcbf87a840999484ca5aba4f776192a6a9))
+
 ## 1.0.0 (2022-08-03)
 
 
