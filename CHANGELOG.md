@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/gofromzero/leetcode/compare/v1.1.0...v1.2.0) (2023-01-16)
+
+
+### Features
+
+* **problem:** 6291. 数组元素和与数字和的绝对差 ([810680b](https://github.com/gofromzero/leetcode/commit/810680bfed7768c3064fd637318a738d0e5c440f))
+
 ## [1.1.0](https://github.com/gofromzero/leetcode/compare/v1.0.0...v1.1.0) (2023-01-15)
 
 
