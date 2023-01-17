@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/gofromzero/leetcode/compare/v1.2.0...v1.3.0) (2023-01-17)
+
+
+### Features
+
+* **problem:** 13. 罗马数字转整数 ([0493d41](https://github.com/gofromzero/leetcode/commit/0493d41847d75ef7ef74af03f024543c4426f138))
+
 ## [1.2.0](https://github.com/gofromzero/leetcode/compare/v1.1.0...v1.2.0) (2023-01-16)
 
 
