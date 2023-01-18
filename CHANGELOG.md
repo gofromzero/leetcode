@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/gofromzero/leetcode/compare/v1.3.0...v1.4.0) (2023-01-18)
+
+
+### Features
+
+* **problem:** 20. 有效的括号 ([0bf4c8d](https://github.com/gofromzero/leetcode/commit/0bf4c8de8a5b0283658d9f7b7409aeabff4b7930))
+* **problem:** 20. 有效的括号 ([4a42db7](https://github.com/gofromzero/leetcode/commit/4a42db7f06770b4316346a62bf84c035781161cb))
+
 ## [1.3.0](https://github.com/gofromzero/leetcode/compare/v1.2.0...v1.3.0) (2023-01-17)
 
 
