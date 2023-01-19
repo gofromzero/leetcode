@@ -5,6 +5,7 @@
 
 | #    | Title                                                                                                   | Solution                                                                   | Difficulty |
 |------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------|
+| 2299 | [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)                                   | [go](./algorithms/go/strongPasswordCheckerII/strongPasswordCheckerII.go)   | easy       |
 | 2293 | [数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [go](./algorithms/go/differenceOfSum/differenceOfSum.go)                   | easy       |
 | 2293 | [极大极小游戏](https://leetcode.cn/problems/min-max-game/)                                                    | [go](./algorithms/go/minMaxGame/minMaxGame.go)                             | easy       |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                       | [go](./algorithms/go/runningSum/runningSum.go)                             | easy       |
