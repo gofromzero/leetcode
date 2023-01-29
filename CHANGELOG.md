@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/gofromzero/leetcode/compare/v1.4.0...v1.5.0) (2023-01-22)
+
+
+### Features
+
+* **problem:** 1880. 检查某单词是否等于两单词之和 ([2e4296b](https://github.com/gofromzero/leetcode/commit/2e4296b2af5198b3491da80f26ccd47489ac8d5d))
+* **problem:** 2299. 强密码检验器 II ([1078040](https://github.com/gofromzero/leetcode/commit/107804044bc6039729a2d9a4cef38b429b3dd599))
+
 ## [1.4.0](https://github.com/gofromzero/leetcode/compare/v1.3.0...v1.4.0) (2023-01-18)
 
 
