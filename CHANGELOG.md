@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/gofromzero/leetcode/compare/v1.6.0...v1.7.0) (2023-01-30)
+
+
+### Features
+
+* **problem:** 2315. 统计星号 ([d5e44ea](https://github.com/gofromzero/leetcode/commit/d5e44ea8b2729e54a19475dbae0da5588e2da3bf))
+
 ## [1.6.0](https://github.com/gofromzero/leetcode/compare/v1.5.0...v1.6.0) (2023-01-29)
 
 
