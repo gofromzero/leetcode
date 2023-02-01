@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/gofromzero/leetcode/compare/v1.7.0...v1.8.0) (2023-02-01)
+
+
+### Features
+
+* **problem:** 2325. 解密消息 ([8701dd1](https://github.com/gofromzero/leetcode/commit/8701dd15f3161b7246626ed1a2c56e11e12f4864))
+
 ## [1.7.0](https://github.com/gofromzero/leetcode/compare/v1.6.0...v1.7.0) (2023-01-30)
 
 
