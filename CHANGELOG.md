@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/gofromzero/leetcode/compare/v1.8.0...v1.9.0) (2023-02-04)
+
+
+### Features
+
+* **problem:** 1603. 设计停车系统 ([ebd0e60](https://github.com/gofromzero/leetcode/commit/ebd0e60adfca64416e414c38508e72a1a7fe8f3b))
+
 ## [1.8.0](https://github.com/gofromzero/leetcode/compare/v1.7.0...v1.8.0) (2023-02-01)
 
 
