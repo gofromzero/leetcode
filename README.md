@@ -8,8 +8,9 @@
 | 2325   | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | [go](./algorithms/go/decodeMessage/decodeMessage.go)                       | easy       |
 | 2315   | [统计星号](https://leetcode.cn/problems/count-asterisks/)                                                   | [go](./algorithms/go/countAsterisks/countAsterisks.go)                     | easy       |
 | 2299   | [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)                                   | [go](./algorithms/go/strongPasswordCheckerII/strongPasswordCheckerII.go)   | easy       |
-| 2293   | [数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [go](./algorithms/go/differenceOfSum/differenceOfSum.go)                   | easy       |
+| 2535   | [数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [go](./algorithms/go/differenceOfSum/differenceOfSum.go)                   | easy       |
 | 2293   | [极大极小游戏](https://leetcode.cn/problems/min-max-game/)                                                    | [go](./algorithms/go/minMaxGame/minMaxGame.go)                             | easy       |
+| 2145   | [统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences/)                                    | [go](./algorithms/go/numberOfArrays/numberOfArrays.go)                     | mideum     |
 | 1880   | [检查某单词是否等于两单词之和](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)             | [go](./algorithms/go/isSumEqual/isSumEqual.go)                             | easy       |
 | 1603   | [设计停车系统](https://leetcode.cn/problems/design-parking-system/)                                           | [go](./algorithms/go/ParkingSystem/ParkingSystem.go)                       | easy       |
 | 1480   | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                       | [go](./algorithms/go/runningSum/runningSum.go)                             | easy       |
