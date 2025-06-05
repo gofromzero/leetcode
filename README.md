@@ -6,6 +6,7 @@
 | #      | Title                                                                                                   | Solution                                                                     | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------|
 | 3392   | [统计符合条件长度为3的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition)       | [go](./algorithms/go/countSubarrays/countSubarrays.go)                       | easy       |
+| 3341   | [统计符合条件长度为3的子数组数目](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-i)       | [go](./algorithms/go/minTimeToReach/minTimeToReach.go)                       | easy       |
 | 2845   | [统计趣味子数组的数目](https://leetcode.cn/problems/count-of-interesting-subarrays/)                              | [go](./algorithms/go/countInterestingSubarrays/countInterestingSubarrays.go) | mideum     |
 | 2799   | [统计完全子数组的数目](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/)                        | [go](./algorithms/go/countCompleteSubarrays/countCompleteSubarrays.go)       | mideum     |
 | 2325   | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | [go](./algorithms/go/decodeMessage/decodeMessage.go)                         | easy       |
