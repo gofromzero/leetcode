@@ -56,5 +56,5 @@
 | 13     | [罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)                                               | [go](./algorithms/go/romanToInt/romanToInt.go)                               | easy       |
 | 3      | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)              | [go](./algorithms/go/lengthoflongestsubstring/lengthOfLongestSubstring.go)   | middle     |
 | 2      | [两数相加](https://leetcode.cn/problems/add-two-numbers/)                                                   | [go](./algorithms/go/addtwonumbers/addTwoNumbers.go)                         | middle     |
-| 1      | [两数之和](https://leetcode.cn/problems/two-sum/)                                                           | [go](./algorithms/go/twosum/twoSum.go)                                       | easy       |
+| 1      | [两数之和](https://leetcode.cn/problems/two-sum/)                                                           | [go](./algorithms/go/twosum/twoSum.go), [rust](./algorithms/rust/two_sum.rs) | easy       |
 | LCP 50 | [宝石补给](https://leetcode.cn/problems/WHnhjV/)                                                            | [go](./algorithms/go/giveGem/giveGem.go)                                     | easy       |
