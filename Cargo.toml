@@ -1,0 +1,13 @@
+[package]
+name = "leetcode-algorithms"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+    "algorithms/rust"
+]
+
+[[bin]]
+name = "two_sum"
+path = "algorithms/rust/two_sum.rs"

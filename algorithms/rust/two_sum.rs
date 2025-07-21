@@ -25,6 +25,14 @@ impl Solution {
 // For testing purposes, we need to define the Solution struct
 pub struct Solution;
 
+fn main() {
+    // Example usage
+    let nums = vec![2, 7, 11, 15];
+    let target = 9;
+    let result = Solution::two_sum(nums, target);
+    println!("Result: {:?}", result);
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
